@@ -10,11 +10,11 @@ Last but not least, we will need an **S3 Bucket** to store the image data. **S3 
 
 1. Navigate to the S3 site by typing S3 in the service search bar and select the ‘S3’ service
 
-![alt text](/images/2-Preparation/2-3-1.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-1.png)
 
 2. Select **Create Bucket** to create a new S3 Bucket.
 
-![alt text](/images/2-Preparation/2-3-2.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-2.png)
 
 3. In **Create Bucket**
 {{% notice note %}}
@@ -25,12 +25,12 @@ Note: because Bucket name is globally unique, using Bucket name as above will ap
 - Enter the Bucket name
 - Then select **ACLs enabled**
 
-![alt text](/images/2-Preparation/2-3-3.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-3.png)
 
 4. Review the S3 Bucket creation information and click **Create Bucket**.
 
-![alt text](/images/2-Preparation/2-3-4.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-4.png)
 
 5. View the created **S3 Bucket**.
 
-![alt text](/images/2-Preparation/2-3-5.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-5.png)

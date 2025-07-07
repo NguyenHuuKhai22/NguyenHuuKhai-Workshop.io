@@ -12,11 +12,12 @@ Thêm access key, secret key, và region của AWS S3 vào environment variables
 1. Truy cập biểu tượng **Window** và tìm kiếm **environment variables**.
 - Chọn **Edit environment variables for your account**
 
-![alt text](/images/3-Adding/3-1.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-1.png)
+
 
 2. Tiếp theo bạn chọn **Environment Variables**.
 
-![alt text](/images/3-Adding/3-2.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-2.png)
 
 
 3. Trong bảng **Environment Variables**.
@@ -24,34 +25,34 @@ Thêm access key, secret key, và region của AWS S3 vào environment variables
 
 - Xem lại **Access key ID** và **Secret access key** trong file User_accessKeys.csv đã tải.
 
-![alt text](/images/3-Adding/3-4.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-4.png)
 
 - Quay lại ở dưới phần **System Variables** chọn **New**.
 
-![alt text](/images/3-Adding/3-3.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-3.png)
 
 
 - Nhập **AWS_ACCESS_KEY_ID** vào **variable name** và nhập key vừa nãy vào **variable value** sau đó nhấn **OK**.
 
-![alt text](/images/3-Adding/3-5.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-5.png)
 
 
 
 -  Tương tự bạn nhập **AWS_SECRET_ACCESS_KEY** vào **variable name** và nhập key vừa nãy vào **variable value** sau đó nhấn **OK** .
 
-![alt text](/images/3-Adding/3-6.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-6.png)
 
 - Nhập cho **AWS_BUCKET** vào **variable name** và nhập key vừa nãy vào **variable value** sau đó nhấn **OK**.
 - **Lưu ý:** **variable value** là tên Bucket của bạn.
 
-![alt text](/images/3-Adding/3-7.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-7.png)
 
 
 - Tương tự vậy cũng điền cho **AWS_DEFAULT_REGION** mà bạn đang sử dụng sau đó nhấn **OK**.
 - **Lưu ý:** điền **Variable value** cho region là region mà bạn tạo bucket s3
-![alt text](/images/3-Adding/3-8.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-8.png)
 
 
 4. Cuối cùng nhấn **OK** để lưu lại.
 
-![alt text](/images/3-Adding/3-9.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/3-Adding/3-9.png)

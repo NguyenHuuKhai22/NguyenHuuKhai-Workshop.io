@@ -23,7 +23,7 @@ pre = "<b>4.2. </b>"
 ], 
 ```
 
-![alt text](/images/4-Create-Project/4.2-Configure-Source-Code/4-2-1.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.2-Configure-Source-Code/4-2-1.png)
 
 2. Create Controller Upload File
 
@@ -32,7 +32,7 @@ pre = "<b>4.2. </b>"
  ```php 
 php artisan make:controller FileUploadController
 ```
-![alt text](/images/4-Create-Project/4.2-Configure-Source-Code/4-2-2.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.2-Configure-Source-Code/4-2-2.png)
 
 3. Go to **app\Http\Controller\FileUploadController.php** to add Upload code
 
@@ -64,7 +64,7 @@ class FileUploadController extends Controller
 }
 ```
 
-![alt text](/images/4-Create-Project/4.2-Configure-Source-Code/4-2-3.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.2-Configure-Source-Code/4-2-3.png)
 
 4. Add Route
 - Add routes to **routes/web.php**.
@@ -80,4 +80,4 @@ Route::post('/upload', [FileUploadController::class, 'upload']);
 
 ```
 
-![alt text](/images/4-Create-Project/4.2-Configure-Source-Code/4-2-4.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.2-Configure-Source-Code/4-2-4.png)

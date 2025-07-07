@@ -12,7 +12,7 @@ This project is almost done, but we need an interface to receive file uploads, s
 1. First you need to go to **resources/views**
 - Create **upload.blade.php**
 
-![alt text](/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-1s.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-1s.png)
 {{% notice note %}}
 To create the UI, you can use my front end source code or you can create your own nicer code
 {{% /notice %}}
@@ -89,7 +89,7 @@ To create the UI, you can use my front end source code or you can create your ow
 ```
 
 
-![alt text](/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-2.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-2.png)
 2. Run Frontend Source and here is the result:
 
-![alt text](/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-3.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-3.png)

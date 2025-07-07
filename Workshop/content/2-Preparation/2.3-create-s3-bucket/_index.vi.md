@@ -11,13 +11,13 @@ Cuối cùng nhưng không kém phần quan trọng, chúng ta sẽ cần một 
 
 1. Để điều hướng đến trang S3 bằng cách nhập S3 vào thanh tìm kiếm dịch vụ và chọn dịch vụ ‘S3’
 
-![alt text](/images/2-Preparation/2-3-1.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-1.png)
 
 2. Tại trang **S3**
 
 - Chọn **Create Bucket** để tạo S3 Bucket mới.
 
-![alt text](/images/2-Preparation/2-3-2.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-2.png)
 
 3. Trong **Create Bucket** 
 {{% notice note %}}
@@ -28,13 +28,13 @@ Lưu ý: Vì Bucket name là duy nhất trên mức độ toàn cầu, nếu s�
 - Nhập tên Bucket name vào
 - Sau chọn **ACLs enabled**
 
-![alt text](/images/2-Preparation/2-3-3.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-3.png)
 
 
 4. Xem lại thông tin tạo S3 Bucket và nhấp vào **Create Bucket**.
 
-![alt text](/images/2-Preparation/2-3-4.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-4.png)
 
 5. Xem **S3 Bucket** đã tạo.
 
-![alt text](/images/2-Preparation/2-3-5.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/2-Preparation/2-3-5.png)

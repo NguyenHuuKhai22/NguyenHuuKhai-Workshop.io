@@ -11,7 +11,7 @@ Dự án này gần hoàn thành, nhưng chúng ta cần một giao diện để
 1. Đầu tiên bạn cần truy cập vào **resources/views**
 - Tạo **upload.blade.php**
 
-![alt text](/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-1s.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-1s.png)
 {{% notice note %}}
 Để tạo giao diện người dùng, bạn có thể sử dụng front end source code của tôi hoặc có thể tự tạo code đẹp hơn
 {{% /notice %}}
@@ -90,8 +90,8 @@ Dự án này gần hoàn thành, nhưng chúng ta cần một giao diện để
 </body>
 </html>
 ```
-![alt text](/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-2.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-2.png)
 2. Chạy Frontend Source và đây là kết quả: 
 
-![alt text](/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-3.png)
+![alt text](https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/images/4-Create-Project/4.3-Create-Frontend-Source-Code/4-3-3.png)
 
