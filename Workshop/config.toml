@@ -1,6 +1,7 @@
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
-baseURL: "https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/"
+baseURL = "https://nguyenhuukhai22.github.io/NguyenHuuKhai-Workshop.io/"
+
 
 # For search functionality
 [outputs]
