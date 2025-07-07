@@ -12,7 +12,7 @@ Adding AWS S3 access key, secret key, and region to environment variables helps 
 
 - Select **Edit environment variables for your account**
 
-![alt text](/images/3-Adding/3-1.png)
+<img src="{{ "/images/3-Adding/3-1.png" | relURL }}" alt="alt text">
 
 2. Next, select **Environment Variables**.
 

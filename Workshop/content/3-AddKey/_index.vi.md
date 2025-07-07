@@ -12,7 +12,7 @@ Thêm access key, secret key, và region của AWS S3 vào environment variables
 1. Truy cập biểu tượng **Window** và tìm kiếm **environment variables**.
 - Chọn **Edit environment variables for your account**
 
-![alt text]({{ "/images/3-Adding/3-1.png" | relURL }})
+![alt text](/images/3-Adding/3-1.png)
 
 2. Tiếp theo bạn chọn **Environment Variables**.
 
