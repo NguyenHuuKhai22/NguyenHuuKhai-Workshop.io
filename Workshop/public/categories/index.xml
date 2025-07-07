@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on AWS System Manager</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on AWS System Manager</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion</title>
+      <link>//localhost:1313/categories/fashion/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/fashion/</guid>
+      <description>&lt;h1 id=&#34;fashion&#34;&gt;Fashion&lt;/h1&gt;&#xA;&lt;p&gt;Explore our trendy collection of clothing, accessories, and footwear for all seasons.&lt;/p&gt;&#xA;&lt;h2 id=&#34;categories&#34;&gt;Categories&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Men&amp;rsquo;s Fashion&lt;/li&gt;&#xA;&lt;li&gt;Women&amp;rsquo;s Fashion&lt;/li&gt;&#xA;&lt;li&gt;Kids&amp;rsquo; Fashion&lt;/li&gt;&#xA;&lt;li&gt;Accessories&lt;/li&gt;&#xA;&lt;li&gt;Footwear&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;trending-now&#34;&gt;Trending Now&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Summer Collection&lt;/li&gt;&#xA;&lt;li&gt;Casual Wear&lt;/li&gt;&#xA;&lt;li&gt;Formal Attire&lt;/li&gt;&#xA;&lt;li&gt;Sports Wear&lt;/li&gt;&#xA;&lt;li&gt;Designer Bags&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay stylish with our latest fashion collection. New arrivals every week!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
