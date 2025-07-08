@@ -18,9 +18,7 @@ Next, we will test the project to see if the website is working properly.
 
 {{% notice note%}}
 You can quickly access the web by **Ctrl + left click** or copy the link **http://127.0.0.1:8000/** and paste it into the browser.
-
 If it fails to run, you can cd to s3upload and run the command again. It may not be in your code folder, so it fails.
-
 {{% /notice%}}
 
 2. After accessing the web, you can select the file you want to upload and press **Upload**.
